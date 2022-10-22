@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192524239761",
+    "project_id": "tokoto-dae64",
+    "storage_bucket": "tokoto-dae64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192524239761:android:8befd5e4475763d8799030",
+        "android_client_info": {
+          "package_name": "com.example.tokoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192524239761-jk5mlqhrebo8hkclligpm9m5370k6o7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLBqoodiDD2aA9JDp6Pf-98rMWGxFryY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192524239761-jk5mlqhrebo8hkclligpm9m5370k6o7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
